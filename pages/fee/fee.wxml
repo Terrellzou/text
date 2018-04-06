@@ -1,0 +1,131 @@
+
+<view class="container">
+  <view class="zan-panel" catchtap="feedetail">
+    <view class="zan-card">
+      <view class="zan-card__thumb">
+        <image class="zan-card__img"
+          src="../../images/5.png"
+          mode="aspectFit" style="height: 80rpx;width: 80rpx;" ></image>
+      </view>
+      <view class="zan-card__detail">
+        <view class="zan-card__detail-row">
+          <view class="zan-card__right-col">
+       <view class='zan-icon zan-icon-setting' style='color:#EE9A00;'>   30
+         </view>
+         
+          </view>
+         <view class="zan-card__left-col">
+             <view class='cardId'><text>黑E123456</text></view>
+          </view>
+        </view>
+
+        <view class="zan-card__detail-row ">
+          <view class="zan-card__right-col">2018-03-18</view>
+          <view class="zan-card__left-col">
+            发动机异常响声
+          </view>
+        </view>
+
+     
+      </view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-card">
+      <view class="zan-card__thumb">
+        <image class="zan-card__img"
+          src=""
+          mode="aspectFit"
+        ></image>
+      </view>
+      <view class="zan-card__detail">
+        <view class="zan-card__detail-row">
+          <view class="zan-card__right-col">
+       <view class='zan-icon zan-icon-setting' style='color:#EE9A00;'>   30
+         </view>
+         
+          </view>
+         <view class="zan-card__left-col">
+             <view class='cardId'><text>黑E123456</text></view>
+          </view>
+        </view>
+
+        <view class="zan-card__detail-row ">
+          <view class="zan-card__right-col">2018-03-18</view>
+          <view class="zan-card__left-col">
+            发动机异常响声
+          </view>
+        </view>
+
+      </view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-card">
+      <view class="zan-card__thumb">
+        <image class="zan-card__img"
+          src=""
+          mode="aspectFit"
+        ></image>
+      </view>
+      <view class="zan-card__detail">
+        <view class="zan-card__detail-row">
+          <view class="zan-card__right-col">
+       <view class='zan-icon zan-icon-setting' style='color:#EE9A00;'>   30
+         </view>
+         
+          </view>
+         <view class="zan-card__left-col">
+             <view class='cardId'><text>黑E123456</text></view>
+          </view>
+        </view>
+
+        <view class="zan-card__detail-row ">
+          <view class="zan-card__right-col">2018-3-18</view>
+          <view class="zan-card__left-col">
+            发动机异常响声
+          </view>
+        </view>
+
+        <view class="zan-card__detail-row zan-c-gray-darker">
+          <view class="zan-card__left-col zan-c-red"></view>
+        </view>
+      </view>
+    </view>
+  </view>
+<view class="zan-panel">
+    <view class="zan-card">
+      <view class="zan-card__thumb">
+        <image class="zan-card__img"
+          src=""
+          mode="aspectFit"
+        ></image>
+      </view>
+      <view class="zan-card__detail">
+        <view class="zan-card__detail-row">
+          <view class="zan-card__right-col">
+       <view class='zan-icon zan-icon-setting' style='color:#EE9A00;'>   30
+         </view>
+         
+          </view>
+         <view class="zan-card__left-col">
+             <view class='cardId'><text>黑E123456</text></view>
+          </view>
+        </view>
+
+        <view class="zan-card__detail-row ">
+          <view class="zan-card__right-col">2018-03-18</view>
+          <view class="zan-card__left-col">
+            发动机异常响声
+          </view>
+        </view>
+        
+      </view>
+    </view>
+  </view>
+  <!-- 下划线 -->
+  <view class="doc-title zan-hairline--bottom"><view class='tips'> 没有更多</view></view>
+
+</view>
