@@ -57,5 +57,10 @@ Page({
 	},
 	onReachBottom:function(){
 		
-	}
+	},
+   cancel:function(){
+    wx.navigateTo({
+      url:"../user"
+    })
+  }
 })		
